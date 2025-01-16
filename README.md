@@ -42,7 +42,10 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-BC0000?logo=autodesk&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?logo=raspberry-pi&logoColor=white)
+
 
 ---
 
