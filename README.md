@@ -1,4 +1,4 @@
-<h1 align="center"> My name is <span style="color:#4CAF50;">Junseok Lee 😊 </span></h1>
+<h1 align="center"> Hello! My name is <span style="color:#4CAF50;">Junseok Lee 😊 </span></h1>
 <h2 align="center"> 👋 Pleased to meet you!</span></h2>
 <p align="center">
   🌐 <a href="https://junseoklee.netlify.app"><strong>Visit My Personal Website</strong></a> 🌐 <br>
