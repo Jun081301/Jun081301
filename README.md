@@ -28,8 +28,10 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  
 ![Verilog](https://img.shields.io/badge/-Verilog-294E80?logo=&logoColor=white)  
-![MATLAB Simulink](https://img.shields.io/badge/-MATLAB_Simulink-FF3621?logo=MathWorks&logoColor=white)
+![MATLAB Simulink](https://img.shields.io/badge/-MATLAB_Simulink-FF3621?logo=MathWorks&logoColor=white)  
+![FPGA](https://img.shields.io/badge/-FPGA-006699?logo=&logoColor=white)
 
 ### ⚡ **Control System & Electrical Design**  
 - **Control System Logic Design**: Expertise in designing and optimizing real-time control systems for HMI, SCADA, and PLC-based automation.  
@@ -46,7 +48,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)  
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?logo=raspberry-pi&logoColor=white)
 
-
 ---
 
 ## 🌟 **Key Achievements**
@@ -59,12 +60,17 @@
 
 ## 🌟 **Work Experience**
 
-- **Control System Developer** @ **Flodraulic** *(Current)*  
-  - Developed HMI systems, debugged wireless controls, and designed **control systems** integrating **hydraulics** logic.
+### **Control System Developer**  
+**Flodraulic** *(August 2024 -Current)*  
+- Designed and developed **HMI systems** and integrated **control systems** with hydraulic logic.  
+- Debugged wireless control systems to ensure seamless communication.  
+- Built and maintained the company's mobile application using **Flutter**.  
 
-- **Web & System Developer** @ **SROOK** *(June – Aug 2024)*  
-  - Leveraged **Google Analytics** and **MySQL** to analyze consumer behavior for dynamic web solutions.
-
+### **Web & System Developer**  
+**SROOK** *(June – August 2024)*  
+- Utilized **Google Analytics** and **MySQL** to analyze consumer behavior.  
+- Developed dynamic and responsive web solutions tailored to client needs.
+- 
 ---
 
 ## 🖇️ **Projects**
